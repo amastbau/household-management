@@ -23,7 +23,7 @@ Next planned large purchases.
 ## Notes
 
 - **PS5**: Covered by Tav Zahav (2,000 ILS). Purchase only at Shekem Electric or Tav Zahav-accepting stores
-- **Robot vacuum**: Must support both mopping and carpet. Look at Roborock, Ecovacs, Dreame, iRobot. Key features: auto mop lift on carpet, strong suction, self-emptying dock preferred
+- **Robot vacuum**: Must support both mopping and carpet. See [detailed research](research/robot-vacuum.md). Top picks: Ecovacs T30C (~2,099, best value), Dreame L40 Ultra AE (~2,729, best all-rounder)
 - Research models and prices before purchasing
 - Watch for sales and deals
 - Track actual spending vs. estimates after purchase
