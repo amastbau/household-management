@@ -15,32 +15,26 @@
 | Dreame L20 Ultra | 2,559-2,690 | 7,000 Pa | 10.5mm + detach | Yes | Best 2023 | Crystallino |
 | Dreame L40 Ultra AE | 2,729-2,815 | 11,000 Pa | 10.5mm + detach | Yes (65C wash) | Highly rated | Crystallino |
 
-## Recommendations
+## Decision
 
-### 1. Best Value: Ecovacs Deebot T30C (~2,099 ILS)
-- **Under budget** with highest suction (20,000 Pa)
-- ZeroTangle 2.0 brush (no hair wrapping)
-- TruEdge mop extends to clean baseboards
-- Hot water mop washing
-- **Downside**: 9mm mop lift only (may dampen thick carpet edges), no mop detach
+**Chosen: Ecovacs Deebot T30C (White) - 2,599 ILS**
+- 2-year official importer warranty (Ronlight)
+- 20,000 Pa suction, ZeroTangle 2.0 brush, 8-in-1 dock
+- 9mm mop lift sufficient for thin carpet
+- Tip: Set no-go zones in app for carpet fringe/tassel edges to prevent tangling
 
-### 2. Best All-Rounder: Dreame L40 Ultra AE (~2,729 ILS)
-- Slightly above budget but best balance overall
-- 11,000 Pa suction, detachable mops for carpet, 65C hot water cleaning
-- 194 min battery life
-- **Detachable mops = best carpet protection** (leaves mops at dock)
-- **Downside**: ~200 ILS over budget, pet hair tangling on brush
+## Other Options Considered
 
-### 3. Best Carpet Protection: Ecovacs Deebot X2 Omni (~2,399 ILS)
-- Tallest mop lift at 15mm (without full retraction)
-- Unique square design reaches corners better
-- 99% sand pickup on carpet
-- **Downside**: 8,000 Pa suction, large dock, older model (late 2023)
+### Dreame L40 Ultra AE (~2,729 ILS)
+- Better carpet protection (detachable mops) but not needed for thin carpet
+- ~130 ILS more expensive
 
-### 4. Best Deal (Parallel Import): Dreame X40 Ultra (~2,394 ILS)
-- Flagship specs at mid-range price
-- 12,000 Pa suction, detachable mops, 70C hot wash
-- **Downside**: No local warranty (parallel import), official price is 4,570+ ILS
+### Ecovacs Deebot X2 Omni (~2,399 ILS)
+- 15mm mop lift, square design for corners
+- Older model (late 2023)
+
+### Dreame X40 Ultra (~2,394 ILS parallel)
+- Flagship specs but no local warranty
 
 ## Israeli Market Notes
 
