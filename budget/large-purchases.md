@@ -7,10 +7,10 @@ Next planned large purchases.
 | Item | For | Est. Cost (ILS) | Priority | Status |
 |------|-----|-----------------|----------|--------|
 | PlayStation 5 | Household | 2,000 | - | Planned |
-| Mobile phone | Noam | ~2,500 | - | Planned |
+| Mobile phone | Noam | 1,500 | - | Planned |
 | Robot vacuum + mop (Ecovacs T30C) | Household | 2,599 | - | Planned |
 
-**Estimated Total: ~7,099 ILS**
+**Estimated Total: ~6,099 ILS**
 
 > Costs are rough estimates unless noted. Update with actual prices after research.
 
