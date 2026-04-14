@@ -19,6 +19,7 @@ Next planned large purchases.
 | Item | Source | Amount | Notes |
 |------|--------|--------|-------|
 | PlayStation 5 | Tav Zahav | 2,000 ILS | Must buy at Shekem Electric or stores accepting Tav Zahav |
+| Mobile phone (Noam) | Work reward credit | 1,500 ILS | |
 
 ## Notes
 
